@@ -8,4 +8,4 @@ I find that https://petrolpricemalaysia.info/ updates are more regular. Therefor
 
 Future development:
 1. automate the process, perhaps via cron job
-2. upload results and append to Google Sheets file
+2. upload results and append to a Google Sheets file
