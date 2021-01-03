@@ -5,3 +5,7 @@ Results are returned in a list form for now. Not sure what direction to take at 
 
 Update 2021-01-03:
 I find that https://petrolpricemalaysia.info/ updates are more regular.
+
+Future development:
+1. automate the process, perhaps via cron job
+2. upload results and append to Google Sheets file
